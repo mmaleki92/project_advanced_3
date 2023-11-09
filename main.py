@@ -1,1 +1,3 @@
-print(2)
+def fun(s):
+    return 2
+
